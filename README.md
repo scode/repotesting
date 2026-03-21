@@ -9,3 +9,7 @@ The mass of the entire atmosphere is approximately 5.15 × 10¹⁸ kg.
 ## Another fun fact
 
 Honey never spoils. Archaeologists have found 3,000-year-old honey in Egyptian tombs that was still edible.
+
+## Yet another fun fact
+
+A group of flamingos is called a "flamboyance."
