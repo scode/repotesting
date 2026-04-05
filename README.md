@@ -13,3 +13,7 @@ Honey never spoils. Archaeologists have found 3,000-year-old honey in Egyptian t
 ## Yet another fun fact
 
 A group of flamingos is called a "flamboyance."
+
+## One more fun fact
+
+Octopuses have three hearts, and two of them stop beating when they swim.
