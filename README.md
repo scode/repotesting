@@ -25,3 +25,7 @@ Sea otters hold hands while sleeping so they do not drift apart in kelp beds.
 ## JJ stack experiment fact C
 
 Koalas have fingerprints that are remarkably close to human fingerprints.
+
+## JJ stack experiment fact B
+
+Wombat poop is cube-shaped, which keeps it from rolling away.
