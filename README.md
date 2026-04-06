@@ -17,3 +17,7 @@ A group of flamingos is called a "flamboyance."
 ## One more fun fact
 
 Octopuses have three hearts, and two of them stop beating when they swim.
+
+## JJ stack experiment fact A
+
+Sea otters hold hands while sleeping so they do not drift apart in kelp beds.
