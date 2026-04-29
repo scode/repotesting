@@ -33,3 +33,7 @@ This line was added to exercise the bottom PR in a disposable jj stack.
 ## Temporary stacked follow-up
 
 This line was added to exercise the top PR after rebasing onto the landed bottom PR.
+
+## Temporary jjstack fast-path note
+
+This disposable line was added while testing the jjstack fast path on 2026-04-29.
