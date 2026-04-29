@@ -21,3 +21,7 @@ Octopuses have three hearts, and two of them stop beating when they swim.
 ## Tooling note
 
 This line was added while timing a jj stacked PR workflow.
+
+## Second tooling note
+
+This follow-up line sits on top of the first stacked change.
