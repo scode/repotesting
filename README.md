@@ -17,3 +17,7 @@ A group of flamingos is called a "flamboyance."
 ## One more fun fact
 
 Octopuses have three hearts, and two of them stop beating when they swim.
+
+## Tooling note
+
+This line was added while timing a jj stacked PR workflow.
