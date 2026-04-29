@@ -37,3 +37,7 @@ This line was added to exercise the top PR after rebasing onto the landed bottom
 ## Temporary jjstack fast-path note
 
 This disposable line was added while testing the jjstack fast path on 2026-04-29.
+
+## Temporary jjstack follow-up note
+
+This stacked line was added above the fast-path note for the same workflow test.
