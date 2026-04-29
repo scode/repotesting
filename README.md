@@ -29,3 +29,7 @@ This follow-up line sits on top of the first stacked change.
 ## Temporary jjstack test note
 
 This line was added to exercise the bottom PR in a disposable jj stack.
+
+## Temporary stacked follow-up
+
+This line was added to exercise the top PR after rebasing onto the landed bottom PR.
