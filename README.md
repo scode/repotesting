@@ -25,3 +25,7 @@ This line was added while timing a jj stacked PR workflow.
 ## Second tooling note
 
 This follow-up line sits on top of the first stacked change.
+
+## Temporary jjstack test note
+
+This line was added to exercise the bottom PR in a disposable jj stack.
