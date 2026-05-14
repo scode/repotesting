@@ -41,3 +41,7 @@ This disposable line was added while testing the jjstack fast path on 2026-04-29
 ## Temporary jjstack follow-up note
 
 This stacked line was added above the fast-path note for the same workflow test.
+
+## Random README note
+
+Bananas are berries by botanical definition, while strawberries are not.
