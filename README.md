@@ -45,3 +45,7 @@ This stacked line was added above the fast-path note for the same workflow test.
 ## Random README note
 
 Bananas are berries by botanical definition, while strawberries are not.
+
+## Scratch repo note
+
+Small test changes are easier to clean up when the README says why they exist.
