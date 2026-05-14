@@ -49,3 +49,7 @@ Bananas are berries by botanical definition, while strawberries are not.
 ## Scratch repo note
 
 Small test changes are easier to clean up when the README says why they exist.
+
+## AGE-10 note
+
+This line exists to exercise the jjstack PR path from a fresh clone.
