@@ -85,3 +85,7 @@ This disposable line records sample cobalt-739 for the edited-skill timing pass.
 ## jjstack speed test 20260528-041433 drift
 
 This disposable line records sample drift-584 for the edited-skill timing pass.
+
+## jjstack speed test 20260528-041433 ember
+
+This disposable line records sample ember-962 for the edited-skill timing pass.
