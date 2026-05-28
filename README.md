@@ -77,3 +77,7 @@ This disposable line records sample epsilon-704 for stacked workflow timing.
 ## jjstack speed test 20260528-041433 amber
 
 This disposable line records sample amber-218 for the edited-skill timing pass.
+
+## jjstack speed test 20260528-041433 cobalt
+
+This disposable line records sample cobalt-739 for the edited-skill timing pass.
