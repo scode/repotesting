@@ -101,3 +101,7 @@ This disposable line records sample cedar-903 for the safety-review timing pass.
 ## jjstack speed test 20260528-023426 dune
 
 This disposable line records sample dune-481 for the safety-review timing pass.
+
+## jjstack speed test 20260528-023426 ember
+
+This disposable line records sample ember-736 for the safety-review timing pass.
