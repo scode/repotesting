@@ -57,3 +57,7 @@ This line exists to exercise the jjstack PR path from a fresh clone.
 ## jjstack speed test 20260528-035403 alpha
 
 This disposable line records sample alpha-431 for stacked workflow timing.
+
+## jjstack speed test 20260528-035403 beta
+
+This disposable line records sample beta-827 for stacked workflow timing.
