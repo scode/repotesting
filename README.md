@@ -89,3 +89,7 @@ This disposable line records sample drift-584 for the edited-skill timing pass.
 ## jjstack speed test 20260528-023426 aurora
 
 This disposable line records sample aurora-619 for the safety-review timing pass.
+
+## jjstack speed test 20260528-023426 basalt
+
+This disposable line records sample basalt-274 for the safety-review timing pass.
