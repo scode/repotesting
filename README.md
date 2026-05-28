@@ -69,3 +69,7 @@ This disposable line records sample gamma-146 for stacked workflow timing.
 ## jjstack speed test 20260528-035403 delta
 
 This disposable line records sample delta-592 for stacked workflow timing.
+
+## jjstack speed test 20260528-035403 epsilon
+
+This disposable line records sample epsilon-704 for stacked workflow timing.
