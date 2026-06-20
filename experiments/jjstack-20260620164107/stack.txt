@@ -1,2 +1,3 @@
 stack layer 1: base entry
 stack layer 2: dependent entry with middle-review update
+stack layer 3: dependent entry
