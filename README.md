@@ -105,3 +105,7 @@ This disposable line records sample dune-481 for the safety-review timing pass.
 ## jjstack speed test 20260528-023426 ember
 
 This disposable line records sample ember-736 for the safety-review timing pass.
+
+## Manual lifecycle probe amber-otter-20260711
+
+This disposable section exercises a real stacked-review lifecycle.
