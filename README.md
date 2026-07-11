@@ -109,3 +109,5 @@ This disposable line records sample ember-736 for the safety-review timing pass.
 ## Manual lifecycle probe amber-otter-20260711
 
 This disposable section exercises a real stacked-review lifecycle.
+
+The second layer records the cobalt-fox ordering marker.
