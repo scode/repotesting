@@ -1,5 +1,7 @@
 # repotesting
 
+Temporary final agent-vcs validation.
+
 A scratch repo for testing tooling, CI pipelines, and workflow experiments.
 
 ## Fun fact
