@@ -7,3 +7,5 @@ Amended line for update-review test.
 jjstack manual test unit F.
 Unit F amended detail.
 Manual git-adapter effects ledger check D.
+Manual git-adapter round-two note E.
+Round-two amended line E.
