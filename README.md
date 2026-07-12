@@ -110,5 +110,6 @@ Manual test note (git adapter) 20260712-fable-a.
 Amended by update-review.
 
 Second manual note (git adapter) 20260712-fable-b.
-
 External advance for restack test.
+
+Manual test note (jjstack adapter) 20260712-unit-a.
