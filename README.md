@@ -105,3 +105,6 @@ This disposable line records sample dune-481 for the safety-review timing pass.
 ## jjstack speed test 20260528-023426 ember
 
 This disposable line records sample ember-736 for the safety-review timing pass.
+
+Manual test note (git adapter) 20260712-fable-a.
+Amended by update-review.
