@@ -108,3 +108,5 @@ This disposable line records sample ember-736 for the safety-review timing pass.
 
 Manual test note (git adapter) 20260712-fable-a.
 Amended by update-review.
+
+Second manual note (git adapter) 20260712-fable-b.
