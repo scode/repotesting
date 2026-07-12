@@ -1,5 +1,7 @@
 # repotesting
 
+Real git-github publish-review verification for newline-terminated messages.
+
 A scratch repo for testing tooling, CI pipelines, and workflow experiments.
 
 ## Fun fact
