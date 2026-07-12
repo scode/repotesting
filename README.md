@@ -1,5 +1,7 @@
 # repotesting
 
+Temporary jj restack validation.
+
 A scratch repo for testing tooling, CI pipelines, and workflow experiments.
 
 ## Fun fact
