@@ -1,0 +1,5 @@
+eval-fast-2
+
+This file is part of a jjstack fast-path-merge eval: a three-PR stack
+where each PR adds one file. This is file two of three, stacked on top
+of eval-fast-1.
