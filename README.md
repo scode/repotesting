@@ -113,3 +113,7 @@ Second manual note (git adapter) 20260712-fable-b.
 External advance for restack test.
 
 Manual test note (jjstack adapter) 20260712-unit-a.
+
+## jjstack normal landing 20260924-185440 alpha
+
+This disposable note exercises the bottom change in a normal-flow stacked landing.
