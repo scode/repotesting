@@ -117,3 +117,7 @@ Manual test note (jjstack adapter) 20260712-unit-a.
 ## jjstack normal landing 20260924-185440 alpha
 
 This disposable note exercises the bottom change in a normal-flow stacked landing.
+
+## jjstack normal landing 20260924-185440 beta
+
+This disposable note exercises the top change after the bottom PR lands.
