@@ -1,3 +1,4 @@
 a line 1
 a line 2
 a line 3
+a appended by 3
