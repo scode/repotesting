@@ -1,0 +1,8 @@
+name: dispatch
+on:
+  workflow_dispatch:
+jobs:
+  noop:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "dispatched for ${{ github.ref_name }}"
