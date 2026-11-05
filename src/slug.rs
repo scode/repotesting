@@ -3,7 +3,6 @@
 /// Runs of all other characters, including non-ASCII characters, separate
 /// words. Separators at either end are omitted; input without ASCII letters
 /// or digits produces an empty string.
-#[cfg_attr(not(test), allow(dead_code))]
 pub fn slugify(input: &str) -> String {
     let mut result = String::new();
     let mut separator_pending = false;
