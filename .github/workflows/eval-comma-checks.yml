@@ -1,0 +1,37 @@
+name: Eval Release
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+
+jobs:
+  check-ok:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo ok
+
+  build-local-artifacts:
+    name: build-local-artifacts (${{ join(matrix.targets, ', ') }})
+    if: ${{ false }}
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        targets: [x86_64-unknown-linux-gnu, aarch64-apple-darwin]
+    steps:
+      - run: echo skipped
+
+  test-macos:
+    if: ${{ false }}
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo skipped
+
+  optional-comma-fail:
+    name: optional-check (linux, x86_64)
+    if: ${{ contains(github.event.pull_request.title, 'trigger-optional-fail') }}
+    runs-on: ubuntu-latest
+    steps:
+      - run: exit 1
